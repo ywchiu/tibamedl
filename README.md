@@ -10,4 +10,7 @@
 - https://github.com/ywchiu/pyfintech/blob/master/Python101.ipynb 
 
 ### Numpy 基礎
-- 
+-
+
+### CNN - 資料集
+- https://goo.gl/rwfQGx 
