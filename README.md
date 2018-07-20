@@ -3,6 +3,7 @@
 ### 課程投影片
 - https://www.slideshare.net/secret/BHhbp3SbdWFFst
 - https://www.slideshare.net/secret/ozDW88ImsJOVdk
+- https://www.slideshare.net/secret/r2jMebXo6JlAmC
 
 ### Anaconda
 - https://www.anaconda.com/download/
