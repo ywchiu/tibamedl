@@ -6,6 +6,7 @@
 ### Anaconda
 - https://www.anaconda.com/download/
 - https://repo.continuum.io/archive/
+- https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe
 
 ### Python 基礎
 - https://github.com/ywchiu/pyfintech/blob/master/Python101.ipynb 
