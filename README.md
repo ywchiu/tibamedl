@@ -1,10 +1,11 @@
 ## Python深度學習實戰-  邁向A.I.的第一步
 
 ### 課程投影片
-
+- https://github.com/ywchiu/tibamedl/blob/master/Slides/tibamedl.pdf
 
 ### Anaconda
 - https://www.anaconda.com/download/
+- https://repo.continuum.io/archive/
 
 ### Python 基礎
 - https://github.com/ywchiu/pyfintech/blob/master/Python101.ipynb 
