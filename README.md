@@ -1,7 +1,7 @@
 ## Python深度學習實戰-  邁向A.I.的第一步
 
 ### Google Colab
-https://colab.research.google.com/
+- https://colab.research.google.com/
 
 ### Python 基礎
 - https://github.com/ywchiu/pyfintech/blob/master/Python101.ipynb 
